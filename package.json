@@ -1,0 +1,11 @@
+{
+  "name": "async-hooks-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Savio Serra",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/savioserra/async_hooks_study"
+  }
+}
